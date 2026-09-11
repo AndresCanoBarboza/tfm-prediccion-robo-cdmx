@@ -10,3 +10,10 @@ seaborn
 streamlit
 graphviz
 jupyterlab
+
+// Requerimientos App //
+streamlit
+pandas
+pillow
+matplotlib
+seaborn
