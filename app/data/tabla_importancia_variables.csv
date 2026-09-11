@@ -1,0 +1,5 @@
+﻿,Árbol Decisión,Random Forest,XGBoost,Promedio
+sexo_M,0.4834,0.4153,0.772,0.5569
+edad,0.2757,0.2987,0.0746,0.2163
+nivel_instruccion,0.2189,0.239,0.1066,0.1882
+ocupacion_NEA,0.022,0.047,0.0469,0.0386

@@ -1,0 +1,5 @@
+﻿Escenario,N.º variables,AUC-ROC
+Solo indicador es_cdmx,1,0.5247
+Solo claves de entidad,31,0.7772
+Base (4 sociodemográficas),4,0.8702
+Base + geografía completa,36,0.9204
